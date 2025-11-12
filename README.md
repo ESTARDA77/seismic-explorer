@@ -1,1 +1,1 @@
-# seismic-explorer
+# seismic-explorerassets/logo.svg
